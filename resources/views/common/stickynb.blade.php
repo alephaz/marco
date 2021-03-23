@@ -7,7 +7,7 @@
         <ul id="fixed-top-menu" class="dropdown menu desktop-menu menu-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="/about">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="/menu">Menu</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="/reservation">Reservation</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="/blog">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page testclass menu-item-17"><a href="/blog">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="/contact">Contact</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-271"><a>Demos</a>
 <ul class="sub-menu">
